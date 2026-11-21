@@ -10,11 +10,11 @@
  *   - L293D motor driver is mentioned in the report
  *   - An additional LDR is described for night-mode detection
  *
- 
+ */
 
 #include <stdint.h>
 #include <stdbool.h>
- */
+ 
 #define LDR_DEADBAND       40u
 #define TRACKING_DELAY_MS  200u
 #define NIGHT_THRESHOLD    100u
