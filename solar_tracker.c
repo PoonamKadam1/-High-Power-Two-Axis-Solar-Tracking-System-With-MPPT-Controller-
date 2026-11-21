@@ -2,7 +2,7 @@
  * High Power Two Axis Solar Tracking System With MPPT Controller
  * Solar tracking logic based on the project report by Poonam Autade.
  *
- * Report-described arrangement:
+ * arrangement:
  *   - Four LDR sensors arranged around the panel
  *   - One sensor pair for east-west tracking
  *   - One sensor pair for north-south tracking
@@ -14,8 +14,7 @@
 
 #include <stdint.h>
 #include <stdbool.h>
-
-/* Adjust this deadband after measuring the LDR divider outputs. */
+ */
 #define LDR_DEADBAND       40u
 #define TRACKING_DELAY_MS  200u
 #define NIGHT_THRESHOLD    100u
