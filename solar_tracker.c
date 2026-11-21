@@ -10,14 +10,7 @@
  *   - L293D motor driver is mentioned in the report
  *   - An additional LDR is described for night-mode detection
  *
- * PORTABILITY:
- * This file contains the controller logic only. The report mentions
- * 89V51RD2, P89LPC938 and PIC16LF1503 in different sections, and does not
- * provide one consistent pin map or a complete source listing. Therefore
- * no MCU registers or assumed pin assignments are used here.
- *
- * Implement the hardware functions below for the actual controller board.
- */
+ 
 
 #include <stdint.h>
 #include <stdbool.h>
