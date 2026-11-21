@@ -4,11 +4,6 @@
  * The project report describes a DC-DC buck-boost converter and explains
  * the Perturb & Observe (P&O) method. It states that converter duty cycle
  * is adjusted to move the PV operating point toward maximum power.
- *
- * This file implements the P&O decision logic only. It does NOT configure
- * PWM hardware or directly drive a power converter. Duty-cycle limits,
- * scaling, polarity, switching frequency and protection thresholds must
- * come from the actual power-stage design.
  */
 
 #include <stdint.h>
