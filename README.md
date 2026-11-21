@@ -5,7 +5,7 @@
 **Academic year:** 2015–2016  
 **Institute:** Gokhale Education Society's R. H. Sapat College of Engineering, Management Studies and Research, Nashik  
 **Project guide:** Prof. Y. A. Salame  
-**Project support/sponsorship acknowledged in the report:** Mr. Vipul Bumb, Pradnya Electronics
+**Project support/sponsorship :** Mr. Vipul Bumb, Pradnya Electronics
 
 ## Project overview
 
